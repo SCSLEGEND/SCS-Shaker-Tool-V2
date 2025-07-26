@@ -5,6 +5,7 @@ Disclaimer: This tool is made for educational purposes and testing security to c
 (Previous SCS Shaker Version 1 Documents removed)
 
 Showcase: -
+
 ![1](./1.png)
 ![2](./2.png)
 
